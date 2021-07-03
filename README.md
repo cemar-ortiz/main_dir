@@ -1,8 +1,8 @@
-# Main directory 
+# Showroom
 
-Readme-only repo intended as a showroom for my development projects. 
+Hi and welcome, my name is César Martínez and I'm a data scientist becoming web developer interested in using backend and frontend frameworks to build web applications integrated with data science functionalities. 
 
-Here I will add links to all my developments projects for web applications integrated with data science functionalities. I'll be specificating which languages and frameworks were used in each project. Each element will incluse a brief description and a link to its source code repository.
+This is a readme-only repo intended as a showroom for my development projects. I'll be specificating which languages and frameworks were used for each one. Each project element will include a brief description and a link to its source code repository.
 
 Hope you may find my projects useful and interesting for your own use.
 If you have any questions feel free to contact me at [cemar.ortiz@gmail.com](cemar.ortiz@gmail.com) 
