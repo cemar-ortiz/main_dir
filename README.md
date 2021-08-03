@@ -14,7 +14,7 @@ My projects cover applications in domain areas I find interesting such as produc
 
 ### Other links:
 
-- **Coding challenges**: I'm participating in a coding community focused on practicing our algorithms and data structure skills, we code in whatever language we are most comfortable and feedback each other, it's fun. I will be uploading my implementations for such challenges here. Hope you may find them useful if you're learning about this too!._Language: Python_
+- **[Coding challenges](https://github.com/cemar-ortiz/coding_challenges)**: I'm participating in a coding community focused on practicing our algorithms and data structure skills, we code in whatever language we are most comfortable and feedback each other, it's fun. I will be uploading my implementations for such challenges here. Hope you may find them useful if you're learning about this too!._Language: Python_
 
 - **Data structures**: On July 2021 I found on a street market a 1980's book written by John L. Pfaltz on Computer Data Structures. All exercises in the book were written in Fortran so I thought: why not parse these exercises to Python? It could be a nice challenge and could end up being educational not only for me, but for others too. I will be uploading in this repo these exercises. _Language: Python_ 
 
