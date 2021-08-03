@@ -8,7 +8,7 @@ My projects cover applications in domain areas I find interesting such as produc
 
 ### Links to projects:
 
--**[Money Dog](https://github.com/cemar-ortiz/money_dog)**: Money Dog is a personal, semi-automated assistant that helps you keep track of your personal finances. This project is still on development and I will be updating it with new features!. _Language: Python, frameworks: pandas_
+- **[Money Dog](https://github.com/cemar-ortiz/money_dog)**: Money Dog is a personal, semi-automated assistant that helps you keep track of your personal finances. This project is still on development and I will be updating it with new features!. _Language: Python, frameworks: pandas_
 
 - **Hangman game**: The classic programming challenge to polish your OOP skills and your standard library knowledge. I maintain this game development project as a hobby and I'm very proud of what I have learned with it, so I thought: why not share it publicly? Maybe it could be educational for someone else besides me. I'll be uploading it with new features until I become busy or entertained with other projects._Language: Python_
 
