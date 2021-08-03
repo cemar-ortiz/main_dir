@@ -1,6 +1,6 @@
 # Showroom
 
-Hi and welcome, my name is César Martínez and I'm a data scientist becoming web developer interested in using backend and frontend frameworks to build web applications integrated with data science functionalities. 
+Hi and welcome, my name is César Martínez and I'm a python developer using backend and frontend frameworks to build applications integrated with data science functionalities. 
 
 This is a **readme-only** repo intended as a showroom portfolio for my development projects. I'll be specificating which languages and frameworks were used for each one. Each project element will include a brief description and a link to its source code repository. 
 
