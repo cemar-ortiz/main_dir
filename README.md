@@ -2,7 +2,7 @@
 
 Hi and welcome, my name is César Martínez and I'm a python developer using backend and frontend frameworks to build applications integrated with data science functionalities. 
 
-This is a **readme-only** repo intended as a showroom portfolio for my development projects. I'll be specificating which languages and frameworks were used for each one. Each project element will include a brief description and a link to its source code repository. 
+This is a **readme-only** repo intended as a portfolio for my development projects. I'll be specificating which languages and frameworks were used for each one. Each project element will include a brief description and a link to its source code repository. 
 
 My projects cover applications in domain areas I find interesting such as productivity enhancement and financial administration. I'm also a hobbyist game-developer so I will be uploading some of those projects here too. 
 
