@@ -1,6 +1,6 @@
 # Showroom
 
-Hi and welcome, my name is César Martínez and I'm a python developer building digital solutions integrated with data science functionalities. 
+Hi and welcome, my name is César Martínez and I'm a python developer building digital solutions in the form of applications and data science projects.
 
 This is a **readme-only** repo intended as a portfolio for my development projects. I'll be specificating which languages and frameworks were used for each one. Each project element will include a brief description and a link to its source code repository. 
 
