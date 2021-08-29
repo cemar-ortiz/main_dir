@@ -8,16 +8,19 @@ My projects cover applications in domain areas I find interesting such as produc
 
 ### Links to projects:
 
-- **[Money Dog](https://github.com/cemar-ortiz/money_dog)**: Money Dog is a personal, semi-automated assistant that helps you keep track of your personal finances. This project is still on development and I will be updating it with new features!. _Language: Python, frameworks: pandas_
+- **[Money Dog](https://github.com/cemar-ortiz/money_dog)**: Money Dog is a personal, semi-automated assistant that helps you keep track of your personal finances. This project is still on development and I will be updating it with new features!. 
 
-- **[Hangman game - CLI based](https://github.com/cemar-ortiz/hangman_cli)**: The classic programming challenge to polish your OOP skills and your standard library knowledge. I maintain this game development project as a hobby and I'm very proud of what I have learned with it, so I thought: why not share it publicly? Maybe it could be educational for someone else besides me. I'll be uploading it with new features until I become busy or entertained with other projects._Language: Python_
+- **[Hangman game - CLI based](https://github.com/cemar-ortiz/hangman_cli)**: The classic programming challenge to polish your OOP skills and your standard library knowledge. I maintain this game development project as a hobby and I'm very proud of what I have learned with it, so I thought: why not share it publicly? Maybe it could be educational for someone else besides me. I'll be uploading it with new features until I become busy or entertained with other projects.
 
 ### Other links:
 
-- **[Coding challenges](https://github.com/cemar-ortiz/coding_challenges)**: I'm participating in a coding community focused on practicing our algorithms and data structure skills, we code in whatever language we are most comfortable and feedback each other, it's fun. I will be uploading my implementations for such challenges here. Hope you may find them useful if you're learning about this too!._Language: Python_
+- **[Coding challenges](https://github.com/cemar-ortiz/coding_challenges)**: I'm participating in a coding community focused on practicing our algorithms and data structure skills, we code in whatever language we are most comfortable and feedback each other, it's fun. I will be uploading my implementations for such challenges here. Hope you may find them useful if you're learning about this too!.
 
-- **Data structures**: On July 2021 I found on a street market a 1980's book written by John L. Pfaltz on Computer Data Structures. All exercises in the book were written in Fortran so I thought: why not parse these exercises to Python? It could be a nice challenge and could end up being educational not only for me, but for others too. I will be uploading in this repo these exercises. _Language: Python_ 
+- **[TDD review](https://github.com/cemar-ortiz/TDD_with_python)**: A repository I worked with as a means to review the practice of Test Driven Development (TDD). 
+
+- **Data structures**: On July 2021 I found on a street market a 1980's book written by John L. Pfaltz on Computer Data Structures. All exercises in the book were written in Fortran so I thought: why not parse these exercises to Python? It could be a nice challenge and could end up being educational not only for me, but for others too. I will be uploading in this repo these exercises. 
 
 Hope you may find my projects useful and interesting for your own use.
+
 If you have any questions feel free to contact me at [cemar.ortiz@gmail.com](cemar.ortiz@gmail.com) 
 
