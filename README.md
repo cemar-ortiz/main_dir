@@ -12,6 +12,8 @@ My projects cover applications in domain areas I find interesting such as produc
 
 - **[30 Days of ML](https://github.com/cemar-ortiz/30_days_of_ML)**: This was a challenge hosted by Kaggle during the month of August 2021 open to anyone. The idea was to get you started with data science competitions if you hadn't participated in one before and teach yourself or review the fundamentals of Machine Learning. It was a very enjoyable experience to take part in.
 
+- **[Cumbres Blancas MX Website](https://github.com/cemar-ortiz/cumbres_blancas_mx)**: This is a web development project for the Cumbres Blancas MX NGO for which I volunteered to work on. It is on a very early phase of development, coded with HTML and CSS.
+
 - **[Hangman game - CLI based](https://github.com/cemar-ortiz/hangman_cli)**: The classic programming challenge to polish your OOP skills and your standard library knowledge. I maintain this game development project as a hobby and I'm very proud of what I have learned with it, so I thought: why not share it publicly? Maybe it could be educational for someone else besides me. I'll be uploading it with new features until I become busy or entertained with other projects.
 
 ### Other links:
