@@ -10,6 +10,8 @@ My projects cover applications in domain areas I find interesting such as produc
 
 - **[Money Dog](https://github.com/cemar-ortiz/money_dog)**: Money Dog is a personal, semi-automated assistant that helps you keep track of your personal finances. This project is still on development and I will be updating it with new features!. 
 
+- **[30 Days of ML](https://github.com/cemar-ortiz/30_days_of_ML)**: This was a challenge hosted by Kaggle during the month of August 2021 open to anyone. The idea was to get you started with data science competitions if you hadn't participated in one before and teach yourself or review the fundamentals of Machine Learning. It was a very enjoyable experience to take part in.
+
 - **[Hangman game - CLI based](https://github.com/cemar-ortiz/hangman_cli)**: The classic programming challenge to polish your OOP skills and your standard library knowledge. I maintain this game development project as a hobby and I'm very proud of what I have learned with it, so I thought: why not share it publicly? Maybe it could be educational for someone else besides me. I'll be uploading it with new features until I become busy or entertained with other projects.
 
 ### Other links:
